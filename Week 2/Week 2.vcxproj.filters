@@ -51,7 +51,7 @@
     <ClCompile Include="square.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="tryanlge.cpp">
+    <ClCompile Include="trianlge.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

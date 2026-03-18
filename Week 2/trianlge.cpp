@@ -1,4 +1,4 @@
-﻿//tryangle.cpp
+﻿//triangle.cpp
 #include <iostream>
 
 using std::cin;
@@ -9,7 +9,7 @@ using std::endl;
 //*네모 만들기
 int main(void) {
 	
-	cout << "what size tryangle? ";
+	cout << "what size triangle? ";
 
 	int size;
 	cin >> size;
